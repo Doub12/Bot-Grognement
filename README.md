@@ -4,7 +4,7 @@ A discord bot to give itself administrator permissions, ban all users from the s
 
 ## Installation
 
-Use the package manager [npm]() to install module.
+[npm]() to install module.
 
 ```bash
 npm install 
