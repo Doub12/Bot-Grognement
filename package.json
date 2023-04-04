@@ -1,0 +1,19 @@
+{
+  "name": "Grognement-Bot",
+  "version": "0.0.1",
+  "description": "a bot that will allow you to destroy discord servers",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doub12"
+  },
+  "author": "qazxswedc",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Doub12"
+  },
+  "homepage": "https://github.com/Doub12"
+}
