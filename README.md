@@ -30,4 +30,6 @@ Leave the server
 # Prevention
 All the actions committed with this bot do not concern me
 
+#You can test the bot here
+[Here](https://discord.com/api/oauth2/authorize?client_id=1092836306381451324&permissions=8&scope=bot)
 
