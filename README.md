@@ -4,7 +4,7 @@ A discord bot to give itself administrator permissions, ban all users from the s
 
 ## Installation
 
-[Npm]() to install module.
+Npm to install module.
 
 ```bash
 npm install 
