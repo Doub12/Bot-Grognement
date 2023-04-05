@@ -28,5 +28,5 @@ Leave the server
 !leaveserver
 ```
 # You can test the bot here
-[Here](https://discord.com/api/oauth2/authorize?client_id=1092836306381451324&permissions=8&scope=bot)
+https://discord.com/api/oauth2/authorize?client_id=1092836306381451324&permissions=8&scope=bot
 
