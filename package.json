@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/Doub12"
   },
-  "author": "qazxswedc",
+  "author": "Doub12",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.0.0"
